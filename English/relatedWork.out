@@ -1,18 +1,20 @@
 \BOOKMARK [1][-]{section.1}{Introduction}{}% 1
-\BOOKMARK [2][-]{subsection.1.1}{Eye Physiology}{section.1}% 2
-\BOOKMARK [2][-]{subsection.1.2}{Eye Tracking and Gaze Estimation}{section.1}% 3
-\BOOKMARK [2][-]{subsection.1.3}{Calibration Strategies}{section.1}% 4
-\BOOKMARK [1][-]{section.2}{Papers Review}{}% 5
-\BOOKMARK [2][-]{subsection.2.1}{Ken Pfeuffer, et.al 4}{section.2}% 6
-\BOOKMARK [2][-]{subsection.2.2}{Christian Lander, et.al 13}{section.2}% 7
-\BOOKMARK [2][-]{subsection.2.3}{Carlos H. Morimoto, et.al 15}{section.2}% 8
-\BOOKMARK [2][-]{subsection.2.4}{Dan Witzner Hansen, et.al 16}{section.2}% 9
-\BOOKMARK [2][-]{subsection.2.5}{Feridun Mert Celebi, et.al 17}{section.2}% 10
-\BOOKMARK [2][-]{subsection.2.6}{Augusto Esteves, et.al 18 19}{section.2}% 11
-\BOOKMARK [2][-]{subsection.2.7}{Melodie Vidal, et.al 6}{section.2}% 12
-\BOOKMARK [2][-]{subsection.2.8}{Amer Al-Rahayfeh, et.al 3}{section.2}% 13
-\BOOKMARK [2][-]{subsection.2.9}{Christian Nitschke, et.al 20}{section.2}% 14
-\BOOKMARK [2][-]{subsection.2.10}{Jixu Chen, et.al 21}{section.2}% 15
-\BOOKMARK [2][-]{subsection.2.11}{Heiko Drewes, et.al 22}{section.2}% 16
-\BOOKMARK [2][-]{subsection.2.12}{Elias D. Guestrin, et.al 23}{section.2}% 17
-\BOOKMARK [1][-]{section.3}{Observations}{}% 18
+\BOOKMARK [1][-]{section.2}{Eye Physiology}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Fixation}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Saccades}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Eye Tracking and Gaze Estimation}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{hEYEbrid: A Hybrid Approach for Mobile Calibration-free Gaze Estimation}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Eye gaze tracking techniques for interactive applications}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.3}{In the Eye of the Beholder: A Survey of Models for Eyes and Gaze}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.4}{Eye Tracking and Head Movement Detection: A State-of-Art Survey}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.5}{I see what you see: Point of Gaze Estimation from Corneal Images}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.6}{A Probabilistic Approach to Online Eye Gaze Tracking Without Explicit Personal Calibration}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.7}{Interacting with the Computer using Gaze Gestures}{section.3}% 12
+\BOOKMARK [1][-]{section.4}{Calibration Strategies}{}% 13
+\BOOKMARK [2][-]{subsection.4.1}{Pursuit calibration: making gaze calibration less tedious and more flexible}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.2}{A Smooth Pursuit Calibration Technique}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.3}{Orbits: Gaze Interaction for Smart Watches using Smooth Pursuit Eye Movements}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.4}{Orbits: Enabling Gaze Interaction in Smart Watches Using Moving Targets}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.5}{Pursuits: Eye-based interaction with moving targets}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.6}{Remote Point-of-gaze Estimation With Single-point Personal Calibration Based On The Pupil Boundary And Corneal Reflections}{section.4}% 19
+\BOOKMARK [1][-]{section.5}{Observations}{}% 20

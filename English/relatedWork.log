@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.25)  12 MAR 2018 05:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.25)  21 MAR 2018 04:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -943,7 +943,7 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
-<uds.jpg, id=76, 222.8325pt x 218.8175pt>
+<uds.jpg, id=84, 222.8325pt x 218.8175pt>
 File: uds.jpg Graphic file (type jpg)
  <use uds.jpg>
 Package pdftex.def Info: uds.jpg used on input line 19.
@@ -1007,7 +1007,7 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+LaTeX Font Info:    Try loading font information for U+msa on input line 5.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1015,7 +1015,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+LaTeX Font Info:    Try loading font information for U+msb on input line 5.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1029,296 +1029,252 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
  [2
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 35.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 47.
+<pimage.png, id=132, 622.325pt x 441.65pt>
+File: pimage.png Graphic file (type png)
+ <use pimage.png>
+Package pdftex.def Info: pimage.png used on input line 58.
+(pdftex.def)             Requested size: 289.08376pt x 216.80798pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
 [1
 
-] <pimage.png, id=153, 622.325pt x 441.65pt>
-File: pimage.png Graphic file (type png)
- <use pimage.png>
-Package pdftex.def Info: pimage.png used on input line 52.
-(pdftex.def)             Requested size: 289.08376pt x 216.80798pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
-
- []
-
-[2 <./pimage.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
-
- []
-
-
+]
 Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
-[3]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 76.
-
-<kenpfeffer.png, id=183, 703.12688pt x 471.26062pt>
-File: kenpfeffer.png Graphic file (type png)
- <use kenpfeffer.png>
-Package pdftex.def Info: kenpfeffer.png used on input line 81.
-(pdftex.def)             Requested size: 289.07782pt x 180.67726pt.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 88.
-
-[4 <./kenpfeffer.png>] <lander1.png, id=192, 614.295pt x 502.12593pt>
+[2 <./pimage.png>] <lander1.png, id=160, 614.295pt x 502.12593pt>
 File: lander1.png Graphic file (type png)
 
 <use lander1.png>
-Package pdftex.def Info: lander1.png used on input line 94.
+Package pdftex.def Info: lander1.png used on input line 80.
 (pdftex.def)             Requested size: 216.80615pt x 180.67325pt.
- <lander2.png, id=193, 874.01532pt x 459.21562pt>
+ [3 <./lander1.png>]
+<lander2.png, id=171, 874.01532pt x 459.21562pt>
 File: lander2.png Graphic file (type png)
-
-<use lander2.png>
-Package pdftex.def Info: lander2.png used on input line 105.
+ <use lander2.png>
+Package pdftex.def Info: lander2.png used on input line 91.
 (pdftex.def)             Requested size: 325.20769pt x 144.54156pt.
- [5 <./lander1.png> <./lander2.png>]
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 114.
-
-<carlos.png, id=202, 418.56375pt x 315.42844pt>
+<carlos.png, id=173, 418.56375pt x 315.42844pt>
 File: carlos.png Graphic file (type png)
  <use carlos.png>
-Package pdftex.def Info: carlos.png used on input line 121.
+Package pdftex.def Info: carlos.png used on input line 107.
 (pdftex.def)             Requested size: 144.53876pt x 122.85776pt.
 
-<carlos2.png, id=203, 417.05812pt x 314.67563pt>
+<carlos2.png, id=174, 417.05812pt x 314.67563pt>
 File: carlos2.png Graphic file (type png)
  <use carlos2.png>
-Package pdftex.def Info: carlos2.png used on input line 127.
+Package pdftex.def Info: carlos2.png used on input line 113.
 (pdftex.def)             Requested size: 144.54066pt x 122.85744pt.
 
-Overfull \hbox (2.08049pt too wide) in paragraph at lines 119--131
+Overfull \hbox (2.08049pt too wide) in paragraph at lines 105--117
 []$[]$ $[]$ 
  []
 
-<carlos3.png, id=204, 603.75563pt x 408.02437pt>
+<carlos3.png, id=175, 603.75563pt x 408.02437pt>
 File: carlos3.png Graphic file (type png)
  <use carlos3.png>
-Package pdftex.def Info: carlos3.png used on input line 138.
+Package pdftex.def Info: carlos3.png used on input line 124.
 (pdftex.def)             Requested size: 216.80832pt x 144.54147pt.
- [6 <./carlos.png> <./carlos2.png> <./carlos3.png>]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 145.
-
-<danWitzer.png, id=212, 611.28375pt x 249.18094pt>
+ [4 <./lander2.png>] <danWitzer.png, id=183, 611.28375pt x 249.18094pt>
 File: danWitzer.png Graphic file (type png)
  <use danWitzer.png>
-Package pdftex.def Info: danWitzer.png used on input line 151.
+Package pdftex.def Info: danWitzer.png used on input line 137.
 (pdftex.def)             Requested size: 289.0756pt x 108.40422pt.
 
-<danWitzer2.png, id=213, 975.645pt x 596.98032pt>
+<danWitzer2.png, id=184, 975.645pt x 596.98032pt>
 File: danWitzer2.png Graphic file (type png)
  <use danWitzer2.png>
-Package pdftex.def Info: danWitzer2.png used on input line 158.
+Package pdftex.def Info: danWitzer2.png used on input line 144.
 (pdftex.def)             Requested size: 289.07819pt x 180.67136pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--165
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+[5 <./carlos.png> <./carlos2.png> <./carlos3.png>] [6 <./danWitzer.png> <./danW
+itzer2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
 
  []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 169.
-
-[7 <./danWitzer.png>]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 178.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 178.
-
-[8 <./danWitzer2.png>] <augusto.png, id=227, 706.89093pt x 488.57532pt>
-File: augusto.png Graphic file (type png)
-
-<use augusto.png>
-Package pdftex.def Info: augusto.png used on input line 184.
-(pdftex.def)             Requested size: 289.0829pt x 180.67311pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 189--190
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
 
  []
 
-[9 <./augusto.png>]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 196.
-
-<melodie.png, id=235, 826.58812pt x 578.16pt>
-File: melodie.png Graphic file (type png)
- <use melodie.png>
-Package pdftex.def Info: melodie.png used on input line 202.
-(pdftex.def)             Requested size: 289.08315pt x 180.67455pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 207--208
-
- []
-
-[10 <./melodie.png>] <melodie2.png, id=242, 908.64468pt x 590.95781pt>
-File: melodie2.png Graphic file (type png)
-
-<use melodie2.png>
-Package pdftex.def Info: melodie2.png used on input line 211.
-(pdftex.def)             Requested size: 289.08073pt x 180.67018pt.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 219.
-
-[11 <./melodie2.png>]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 236.
-
-[12] <chrisitanN.png, id=265, 1044.90375pt x 533.74406pt>
+[7] <chrisitanN.png, id=215, 1044.90375pt x 533.74406pt>
 File: chrisitanN.png Graphic file (type png)
  <use chrisitanN.png>
-Package pdftex.def Info: chrisitanN.png used on input line 242.
+Package pdftex.def Info: chrisitanN.png used on input line 180.
 (pdftex.def)             Requested size: 325.20827pt x 180.67244pt.
 
-<chrisitanN2.png, id=266, 909.3975pt x 532.99126pt>
+<chrisitanN2.png, id=216, 909.3975pt x 532.99126pt>
 File: chrisitanN2.png Graphic file (type png)
  <use chrisitanN2.png>
-Package pdftex.def Info: chrisitanN2.png used on input line 252.
+Package pdftex.def Info: chrisitanN2.png used on input line 190.
 (pdftex.def)             Requested size: 325.21815pt x 180.66972pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--259
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
 
  []
 
-[13 <./chrisitanN.png> <./chrisitanN2.png>]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 262.
-
-<jixu.png, id=274, 794.97pt x 682.55pt>
+[8 <./chrisitanN.png>] <jixu.png, id=224, 794.97pt x 682.55pt>
 File: jixu.png Graphic file (type png)
  <use jixu.png>
-Package pdftex.def Info: jixu.png used on input line 268.
+Package pdftex.def Info: jixu.png used on input line 206.
 (pdftex.def)             Requested size: 289.0881pt x 252.9353pt.
 
-<jixu2.png, id=275, 650.43pt x 653.44125pt>
+<jixu2.png, id=225, 650.43pt x 653.44125pt>
 File: jixu2.png Graphic file (type png)
  <use jixu2.png>
-Package pdftex.def Info: jixu2.png used on input line 276.
+Package pdftex.def Info: jixu2.png used on input line 214.
 (pdftex.def)             Requested size: 289.0881pt x 289.08043pt.
- [14 <./jixu.png>]
-[15 <./jixu2.png>]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 288.
-
-<heiko.png, id=290, 1194.4625pt x 469.755pt>
+ [9 <./chrisitanN2.png>] [10 <./jixu.png>] <heiko.png, id=242, 1194.4625pt x 46
+9.755pt>
 File: heiko.png Graphic file (type png)
- <use heiko.png>
-Package pdftex.def Info: heiko.png used on input line 294.
+
+<use heiko.png>
+Package pdftex.def Info: heiko.png used on input line 232.
 (pdftex.def)             Requested size: 325.20663pt x 144.54019pt.
- [16 <./heiko.png>]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 302.
-
-<elias.png, id=298, 1134.2375pt x 623.32875pt>
-File: elias.png Graphic file (type png)
- <use elias.png>
-Package pdftex.def Info: elias.png used on input line 308.
-(pdftex.def)             Requested size: 325.21675pt x 180.6751pt.
- [17 <./elias.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 321--322
+ [11 <./jixu2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
 
  []
 
-<obs1.png, id=306, 714.67pt x 690.58pt>
+[12 <./heiko.png>]
+Overfull \hbox (0.47354pt too wide) in paragraph at lines 247--247
+|[]\T1/ppl/b/n/12 Pursuit cal-i-bra-tion: mak-ing gaze cal-i-bra-tion less te-d
+ious and more
+ []
+
+<kenpfeffer.png, id=263, 703.12688pt x 471.26062pt>
+File: kenpfeffer.png Graphic file (type png)
+ <use kenpfeffer.png>
+Package pdftex.def Info: kenpfeffer.png used on input line 252.
+(pdftex.def)             Requested size: 289.07782pt x 180.67726pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
+
+ []
+
+[13 <./kenpfeffer.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
+
+ []
+
+[14] <augusto.png, id=282, 706.89093pt x 488.57532pt>
+File: augusto.png Graphic file (type png)
+ <use augusto.png>
+Package pdftex.def Info: augusto.png used on input line 275.
+(pdftex.def)             Requested size: 289.0829pt x 180.67311pt.
+
+[15 <./augusto.png>] <melodie.png, id=290, 826.58812pt x 578.16pt>
+File: melodie.png Graphic file (type png)
+
+<use melodie.png>
+Package pdftex.def Info: melodie.png used on input line 295.
+(pdftex.def)             Requested size: 289.08315pt x 180.67455pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
+
+ []
+
+<melodie2.png, id=291, 908.64468pt x 590.95781pt>
+File: melodie2.png Graphic file (type png)
+ <use melodie2.png>
+Package pdftex.def Info: melodie2.png used on input line 304.
+(pdftex.def)             Requested size: 289.08073pt x 180.67018pt.
+ [16 <./melodie.png>] [17 <./melodie2.png>]
+<elias.png, id=306, 1134.2375pt x 623.32875pt>
+File: elias.png Graphic file (type png)
+ <use elias.png>
+Package pdftex.def Info: elias.png used on input line 317.
+(pdftex.def)             Requested size: 325.21675pt x 180.6751pt.
+ [18 <./elias.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
+
+ []
+
+<obs1.png, id=313, 714.67pt x 690.58pt>
 File: obs1.png Graphic file (type png)
  <use obs1.png>
-Package pdftex.def Info: obs1.png used on input line 326.
+Package pdftex.def Info: obs1.png used on input line 334.
 (pdftex.def)             Requested size: 180.67357pt x 180.67406pt.
 
-<obs2.png, id=307, 709.65125pt x 687.56876pt>
+<obs2.png, id=314, 709.65125pt x 687.56876pt>
 File: obs2.png Graphic file (type png)
  <use obs2.png>
-Package pdftex.def Info: obs2.png used on input line 332.
+Package pdftex.def Info: obs2.png used on input line 340.
 (pdftex.def)             Requested size: 180.67172pt x 180.6731pt.
 
-Overfull \hbox (2.08049pt too wide) in paragraph at lines 324--336
+Overfull \hbox (2.08049pt too wide) in paragraph at lines 332--344
 []$[]$ $[]$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--341
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
 
  []
 
-<obs3.png, id=309, 1371.1225pt x 425.59pt>
+<obs3.png, id=316, 1371.1225pt x 425.59pt>
 File: obs3.png Graphic file (type png)
  <use obs3.png>
-Package pdftex.def Info: obs3.png used on input line 344.
+Package pdftex.def Info: obs3.png used on input line 352.
 (pdftex.def)             Requested size: 361.33725pt x 144.54282pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 351--352
+Underfull \hbox (badness 10000) in paragraph at lines 359--360
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 353--354
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
 
  []
 
-[18 <./obs1.png> <./obs2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 355--356
+[19 <./obs1.png> <./obs2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
 
  []
 
-[19 <./obs3.png>] [20] [21]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 407.
- [22]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 407.
+[20 <./obs3.png>] [21] [22]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 415.
+ [23]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 415.
  (./relatedWork.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 407.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 407.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 415.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 415.
 Package rerunfilecheck Info: File `relatedWork.out' has not changed.
-(rerunfilecheck)             Checksum: 946B18664D2D62EB1325B092430FEEEB;1260.
+(rerunfilecheck)             Checksum: BFFD4E554988A56A3E51384D99775EDB;1921.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 407.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 415.
  ) 
 Here is how much of TeX's memory you used:
- 12165 strings out of 493013
- 180647 string characters out of 6133328
- 313603 words of memory out of 5000000
- 15249 multiletter control sequences out of 15000+600000
- 37442 words of font info for 144 fonts, out of 8000000 for 9000
+ 12166 strings out of 493013
+ 180646 string characters out of 6133328
+ 314608 words of memory out of 5000000
+ 15250 multiletter control sequences out of 15000+600000
+ 37283 words of font info for 142 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,12n,43p,1208b,512s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,11n,43p,1088b,512s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texl
@@ -1328,10 +1284,10 @@ ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
 exmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2016/texmf-di
 st/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2016/texmf-dist/font
 s/type1/urw/times/utmr8a.pfb>
-Output written on relatedWork.pdf (25 pages, 9645082 bytes).
+Output written on relatedWork.pdf (26 pages, 9647874 bytes).
 PDF statistics:
- 386 PDF objects out of 1000 (max. 8388607)
- 324 compressed objects within 4 object streams
- 91 named destinations out of 1000 (max. 500000)
- 18175 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 393 PDF objects out of 1000 (max. 8388607)
+ 330 compressed objects within 4 object streams
+ 94 named destinations out of 1000 (max. 500000)
+ 18191 words of extra memory for PDF output out of 20736 (max. 10000000)
 
