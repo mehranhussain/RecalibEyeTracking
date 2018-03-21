@@ -94,7 +94,7 @@ While proposing this appraoch, authors have conducted a user study in which they
 \end{figure}
 
 
-Relating to the prospective work, the approach presented in this paper performs better than the well-established Pupil Labs eye tracker. It also compares well to existing approaches based on corneal imaging. The results are relatively promising, because of its robustness, and it defines the potential to implement mobile gaze-based interaction in everyday life settings.
+Relating to the prospective work, the method presented in the paper have promising results, because of its robustness. It defines the potential to implement mobile gaze-based interaction in everyday life settings. The approach presented in this paper performs better than the Pupil Labs \cite{29} eye tracker and is also comparable to existing approaches based on corneal imaging. Therefore, this paper gives a strong basis as to be used in the prospective work for gaze estimation.
 
 
 \subsection{Eye gaze tracking techniques for interactive applications}
@@ -256,7 +256,7 @@ In Ken Pfeuffer, et.al \cite{4} paper, Pursuit calibration: making gaze calibrat
 
 This leads to novel strategies for more intelligent sampling of calibration points, as well as usability advantages in tolerating user distraction and facilitating casual calibration. Pursuit calibration is simple in its core design but lends itself to implement gaze calibration in creative and innovative ways.\\
 
-Regarding the prospective work, paper shows that in order for pursuit calibration to be integrated in the applications, it requires careful interface design. The accuracy study in the paper showed that a target that is too quick and therefore hard to follow for the eye. On the other hand, one that is too slow avoids detection of correlation.  Therefore, these finding are highly important for the prospective work, as we are going to higly focus on pursuit calibration in the prospective work.
+Regarding the prospective work, paper shows that in order for pursuit calibration to be integrated in the applications, it requires careful interface design. The accuracy study in the paper showed that a target that is too quick and therefore hard to follow for the eye. On the other hand, one that is too slow avoids detection of correlation. Therefore, these finding are important as we are going to higly focus on pursuit calibration in the prospective work.
 
 \subsection{A Smooth Pursuit Calibration Technique}
 
@@ -310,7 +310,9 @@ In the prospective work eye-based interaction will be used as an estimation of e
 
 \subsection{Remote Point-of-gaze Estimation With Single-point Personal Calibration Based On The Pupil Boundary And Corneal Reflections}
 
-In Elias D. Guestrin, et.al \cite{23} paper, Remote Point-of-gaze Estimation With Single-point Personal Calibration Based On The Pupil Boundary And Corneal Reflections, authors have proposed a new method for non-contact point-of-gaze (PoG) esitmation which is remote based and robust against head movements. This new approach requires user to do a simple personal calibration procedure by fixating on a single calibration point. The method also uses the pupil boundary and at least two corneal reflections which are described as virtual images of light sources in the paper. These corneal reflections are being extracted from eye images captured by at least two video cameras. Results from a prototype system showed root mean square point of gaze estimation errors of approx. 0.4-0.6$^{\circ}$ of visual angle. This kind of accuracy is as good as the best commercially available systems which use multiple-point personal calibration procedures. Furthermore, its much better than any other system that use a single-point personal calibration procedure.
+In Elias D. Guestrin, et.al \cite{23} paper, Remote Point-of-gaze Estimation With Single-point Personal Calibration Based On The Pupil Boundary And Corneal Reflections, authors have proposed a new method for non-contact point-of-gaze (PoG) esitmation which is remote based and robust against head movements. This new approach requires user to do a simple personal calibration procedure by fixating on a single calibration point. The method also uses the pupil boundary and at least two corneal reflections which are described as virtual images of light sources in the paper.\\
+
+These corneal reflections are being extracted from eye images captured by at least two video cameras. Results from a prototype system showed root mean square point of gaze estimation errors of approx. 0.4-0.6$^{\circ}$ of visual angle. This kind of accuracy is as good as the best commercially available systems which use multiple-point personal calibration procedures. Furthermore, its much better than any other system that use a single-point personal calibration procedure.
 
 \begin{figure}[!hbt]
   \centering
@@ -321,6 +323,19 @@ In Elias D. Guestrin, et.al \cite{23} paper, Remote Point-of-gaze Estimation Wit
 
 
 As the prospective will be on calibration procedures, the results from the papers show that the proposed method makes it possible to evaluate the point of gaze with an accuracy of 0.4-0.6$^{\circ}$ of visual angle after completing a single-point personal calibration procedure. Because kind of accuracy is comparable or better with current systems, the approach in the paper surpass current methods and show great results compare to the previously described methods in the literature and are related to the prospective work.
+
+\subsection{CalibMe: Fast and Unsupervised Eye Tracker Calibration for Gaze-Based Pervasive Human-Computer Interaction}
+
+In this paper, authors have introduced CalibMe (Calibrating with Movements) method. The proposed method uses a collection marker that does not impose any additional processing to common eye tracking systems. The method consists of a set of techniques to quickly collect eye-gaze relationships for calibration, remove ill-constrained relationship outliers, and automatically reserve tuples for evaluation. At the end,  users wearing eye tracker able to quickly calibrate the system anywhere without supervision. It can therefore give feedback both in terms of gaze estimation accuracy and also on the calibration area coverage relative to the field camera. 
+
+\begin{figure}[!hbt]
+  \centering
+  \includegraphics[width=5.5in,height=2in]{calibme.png}
+  \caption{Illustrations of two envisioned CalibMe use cases. 1a) The user puts his head-worn eye tracker on, which detects the new user and requests the smart TV to display a collection marker; the user then fixates the marker and moves his head to collect eye-gaze relationships. 2a) The eye tracker detects its calibration became invalid (e.g., based on saliency-gaze overlap) and requests the smartphone to notify the user; the user then moves the smartphone displaying the collection marker to collect eye-gaze relationships. 1b and 2b) the eye tracker notifies the user that the calibration has been performed successfully through other smart devices or visual/haptic/audible feedback, signaling that the system is now ready to use for gaze-based interaction with other devices.}
+  \label{calibme}
+\end{figure}
+
+Regarding prospective work, CalibMe have key limitations in regard of detecting collection marker and eye pupil. In the paper, the parallex error is also mentioned as a possible issue for sharp calibration. The speed of the marker relative to the camera/subject also have effects on calibration. The faster the marker moves, the faster the calibration will be. However, several elements need pose further limitations such as the camera resolution, frame rate, shutter type, marker detection blur robustness, and human smooth pursuits physiological limitations.
 
 \newpage
 
@@ -408,7 +423,7 @@ Following are the main three observations of anohter pupil data recordings:
 Trackers. ACM Trans. Comput.-Hum. Interact. 19, 2, Article 10 (July 2012), 25 pages. https://doi.org/10.1145/2240156.2240158
  \bibitem{27} Qiang Ji and Xiaojie Yang. 2002. Real-Time Eye, Gaze, and Face Pose Tracking for Monitoring Driver Vigilance. Real-Time Imaging (2002), 357–377. https://doi.org/10.1006/rtim.2002.0279
  \bibitem{28} Julian Steil , Andreas Bulling, Discovery of everyday human activities from long-term visual behaviour using topic models, Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing, September 07-11, 2015, Osaka, Japan 
- \bibitem{29} https://www.pupil-labs.com/
+ \bibitem{29} Pupil Labs, https://www.pupil-labs.com/, Accessed: 2018-03-21
   \end{thebibliography}
 
 
