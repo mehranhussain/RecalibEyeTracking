@@ -1,0 +1,20 @@
+\thispagestyle {plain}
+\vspace {-.45cm}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Eye Physiology}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Eye Tracking and Gaze Estimation}{1}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Calibration Strategies}{3}{subsection.1.3}
+\contentsline {section}{\numberline {2}Papers Review}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Ken Pfeuffer, et.al \cite {4}}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Christian Lander, et.al \cite {13}}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Carlos H. Morimoto, et.al \cite {15}}{6}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Dan Witzner Hansen, et.al \cite {16}}{7}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Feridun Mert Celebi, et.al \cite {17}}{8}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Augusto Esteves, et.al \cite {18} \cite {19}}{9}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}Melodie Vidal, et.al \cite {6}}{10}{subsection.2.7}
+\contentsline {subsection}{\numberline {2.8}Amer Al-Rahayfeh, et.al \cite {3}}{11}{subsection.2.8}
+\contentsline {subsection}{\numberline {2.9}Christian Nitschke, et.al \cite {20}}{12}{subsection.2.9}
+\contentsline {subsection}{\numberline {2.10}Jixu Chen, et.al \cite {21}}{14}{subsection.2.10}
+\contentsline {subsection}{\numberline {2.11}Heiko Drewes, et.al \cite {22}}{16}{subsection.2.11}
+\contentsline {subsection}{\numberline {2.12}Elias D. Guestrin, et.al \cite {23}}{17}{subsection.2.12}
+\contentsline {section}{\numberline {3}Observations}{18}{section.3}
